@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.93.5](https://www.github.com/googleapis/java-core/compare/v1.93.4...v1.93.5) (2020-04-16)
+
+
+### Dependencies
+
+* update dependency com.google.guava:guava-bom to v29 ([#205](https://www.github.com/googleapis/java-core/issues/205)) ([48d3f97](https://www.github.com/googleapis/java-core/commit/48d3f970bd931ee5f04205ab939c318c69cbcf3f))
+
 ### [1.93.4](https://www.github.com/googleapis/java-core/compare/v1.93.3...v1.93.4) (2020-04-06)
 
 
